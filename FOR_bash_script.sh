@@ -10,3 +10,4 @@ echo "Connect complete"
 echo ""
 done
 echo "All server working"
+#ЧЕКНУЛ ВСЕ РАБОТАЕТ
